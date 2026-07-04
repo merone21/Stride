@@ -39,6 +39,10 @@ MonoBehaviour:
   - DestroySpaceship
   - Fire
   - RespawnSpaceship
+  - RPC_Activate
+  - RPC_Respawn
+  - RPC_ActivateDoor
+  - RPC_ReportFinish
   DisableAutoOpenWizard: 1
   ShowSettings: 0
   DevRegionSetOnce: 0
